@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# React build output
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OS generated files
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Git-generated files
+.git/
+*.orig
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
